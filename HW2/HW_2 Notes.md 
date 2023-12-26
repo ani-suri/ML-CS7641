@@ -1,0 +1,33 @@
+## Submissions (files)
+- Qs1 kmeans.py and dbscan.py: Started & finished 
+Things that do not work for this: 
+1.1) test_pariwise => taking too long 
+1.6.2) DBScan test_train_empty => MSE not updating correctly 
+REMOVE NOTES FOR THIS 
+
+
+
+
+- Qs2  Writted report (1) for Q2- Latex file into pdf 
+Non programming only written report for EM Algo 2.1 and 2.2 
+
+
+
+
+- Qs 3 gm.py and written report (2) 
+3.1.2 has a written part (DO NOT FORGET) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Semisupervised.py and written report (3)
+- Jupyter notebook to pdf (convert .ipynb to pdf)
